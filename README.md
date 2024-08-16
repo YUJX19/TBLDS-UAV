@@ -7,13 +7,13 @@
   <img src="./assets/CIRYs2.png" alt="CIRYs2 Scenario" width="400"/>
 </p>
 
-The results presented in Fig.1 and Fig.2 illustrate the effectiveness of our algorithm in maintaining Line of Sight (LoS) communication between UAVs under different simulated scenarios.
+The results presented in Fig.1 and Fig.2 demonstrate the effectiveness of our algorithm in maintaining LoS communication between UAVs under different simulated scenarios.
 
-In the straightforward scenario depicted in Fig.1, UAV B and C maintained 100% LoS communication using our algorithm. In contrast, the more complex scenario shown in Fig.2 demonstrated LoS communication probabilities of 95.47% and 96.17% for the UAVs, respectively.
+In the simpler scenario depicted in Fig.1, UAVs B and C successfully maintained stable LoS communication. In contrast, in the more complex scenario shown in Fig.2, despite greater environmental challenges, the UAVs still maintained highly reliable LoS communication.
 
-These results underscore the robustness of our LoS-optimized spatiotemporal persistence approach, which significantly outperforms scenarios lacking LoS constraints, where UAVs frequently lose communication opportunities.
+These results highlight the robustness of our LoS-optimized spatiotemporal persistence approach, which significantly outperforms scenarios lacking LoS constraints, where UAVs frequently lose communication opportunities.
 
-For further visualization, we have included real-time flight GIFs of the UAVs: a 2D animation corresponding to the left side of Fig.1 and another to the right side of Fig.2.
+To facilitate demonstration, we have also provided real-time flight GIFs of the UAVs: one corresponding to the 2D animation on the left side of Fig.1, and the other to the scene on the right side of Fig.2.
 
 <p align="center">
   <img src="./assets/CITY50.gif" alt="City50 Scenario" width="400"/>

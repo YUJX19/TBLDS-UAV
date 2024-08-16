@@ -3,8 +3,8 @@
 ## Urban Scenarios
 
 <p align="center">
-  <img src="./CIRYs1.png" alt="CIRYs1 Scenario" width="400"/>
-  <img src="./CIRYs2.png" alt="CIRYs2 Scenario" width="400"/>
+  <img src="./assets/CIRYs1.png" alt="CIRYs1 Scenario" width="400"/>
+  <img src="./assets/CIRYs2.png" alt="CIRYs2 Scenario" width="400"/>
 </p>
 
 The results presented in Fig.1 and Fig.2 illustrate the effectiveness of our algorithm in maintaining Line of Sight (LoS) communication between UAVs under different simulated scenarios.
@@ -16,15 +16,15 @@ These results underscore the robustness of our LoS-optimized spatiotemporal pers
 For further visualization, we have included real-time flight GIFs of the UAVs: a 2D animation corresponding to the left side of Fig.1 and another to the right side of Fig.2.
 
 <p align="center">
-  <img src="./CITY50.gif" alt="City50 Scenario" width="400"/>
-  <img src="./CITY100.gif" alt="Complex Scenario" width="400"/>
+  <img src="./assets/CITY50.gif" alt="City50 Scenario" width="400"/>
+  <img src="./assets/CITY100.gif" alt="Complex Scenario" width="400"/>
 </p>
 
 
 
 ## Reference
 
-This UAV control algorithm is based on the work of [1] J. Yu, J. Wu, and H. Jiang, “Spatio-Temporal Trajectory Design for UAVs: Enhancing URLLC and LoS Transmission in Communications,” IEEE Wireless Commun. Lett., pp. 1–1, 2024, doi: 10.1109/LWC.2024.3416742.
+This UAV control algorithm is based on the work of J. Yu, J. Wu, and H. Jiang, “Spatio-Temporal Trajectory Design for UAVs: Enhancing URLLC and LoS Transmission in Communications,” IEEE Wireless Commun. Lett., pp. 1–1, 2024.
 
 ## About
 
